@@ -1,0 +1,149 @@
+﻿
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    
+    
+      body{
+          background-color:navajowhite;
+      }
+    /* Add padding to containers */
+   
+
+    /* Full-width input fields */
+    input[type=text], input[type=password] {
+      width: 100%;
+      padding: 15px;
+      margin: 5px 0 22px 0;
+      display: inline-block;
+      border: none;
+      background: #f1f1f1;
+      border-radius:10px;
+    }
+
+      input[type=text]:focus, input[type=password]:focus {
+        background-color: #ddd;
+        outline: none;
+      }
+
+    /* Overwrite default styles of hr */
+    hr {
+      border: 1px solid #f1f1f1;
+      margin-bottom: 25px;
+    }
+
+    /* Set a style for the submit button */
+    .registerbtn {
+      background-color: #04AA6D;
+      color: white;
+      padding: 14px 20px;
+      border: none;
+      cursor: pointer;
+      width: 50%;
+      opacity: 0.9;
+      border-radius:10px;
+    }
+
+      .registerbtn:hover {
+        opacity: 1;
+      }
+
+    /* Add a blue text color to links */
+    a {
+      color: dodgerblue;
+    }
+
+    /* Set a grey background color and center the text of the "sign in" section */
+    .signin {
+      background-color: #f1f1f1;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+    <div style="width: 100%;display:flex;justify-content:space-between;padding:10px; height: max-content; background-color: black; opacity: 0.7">
+        <div>
+            <h5 style="color:white;text-align:left;padding:20px;"> Library Management System </h5>
+        </div>
+        <div>
+            <h5 style="color:white;text-align:left;padding:20px;"> Welcome To Admin Panel </h5>
+        </div>
+        <div style="padding:10px">
+            <img src="~/Images/shutdown.png" style="width:50px;height:50px;cursor:pointer" />
+            <button onclick="Logout()" style="color:white;text-align:left;background-color:transparent;border:hidden">
+                Logout
+            </button>
+        </div>
+
+    </div>
+    <form id="loginForm" method="post">
+        <div class="container">
+            <div style="width: max-content; height: 75px; margin: auto; margin-top:50px; background-color: black; opacity: 0.7;border-radius:10px;">
+                <h1 style="color:white;padding:10px;">Add New Book </h1>
+            </div>
+            <hr>
+
+            <label for="psw"><b>Book Name</b></label>
+            <input type="text" placeholder="Enter Book Name" name="BookName" id="name" required>
+
+
+            <label for="psw"><b>Author Name</b></label>
+            <input type="text" placeholder="Enter Author Name" name="Author" id="psw" required>
+
+            <label for="email"><b>Quantity</b></label>
+            <input type="text" placeholder="Enter Quantity" name="Quantity" id="Quantity" required>
+
+            <hr>
+
+
+        </div>
+    </form>
+    <div class="container" style="width:100%;height:80px;margin:auto; display:flex; gap:5px;">
+
+        <button type="button" id="RegisterButton" onclick="SubmitBook()" class="registerbtn">Add Book</button>
+
+        <button type="button" id="ShowBook" onclick="ShowBook()" class="registerbtn">Show Book</button>
+
+    </div>
+    <div>
+
+    </div>
+
+
+    <script>
+      function Logout() {
+        sessionStorage.clear();
+        window.location.href = '/Login/Index';
+      }
+
+        function ShowBook() {
+            window.location.href = '/Home/ShowBookInformation';
+        }
+
+        function SubmitBook() {
+            var formData = $('#loginForm').serialize();
+            $.ajax({
+                type: 'POST',
+                url: '/Home/SubmitBook', // Modify the URL if needed
+                data: formData,
+                dataType: 'json',
+                success: function (response) {
+                    if (response.success) {
+                        ShowMessage('Book Submit Successfully', 'success');
+                    } else {
+                        ShowMessage('Blank Fields : ' + response.blankFields.join(", "), 'error');
+                    
+                    }
+                },
+                error: function (xhr, status, error) {
+                    console.error(xhr.responseText);
+                    ShowMessage(xhr.responseText, 'error');
+                }
+            });
+        }
+    </script>
+</body>
+</html>

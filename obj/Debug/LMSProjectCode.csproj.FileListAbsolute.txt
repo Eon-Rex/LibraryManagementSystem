@@ -1,0 +1,316 @@
+E:\Acxiom\Learning Project\LMSProjectCode\bin\LMSProjectCode.dll.config
+E:\Acxiom\Learning Project\LMSProjectCode\bin\LMSProjectCode.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\LMSProjectCode.pdb
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\csc.exe
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\csc.exe.config
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\csc.rsp
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\csi.exe
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\csi.exe.config
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\csi.rsp
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.AppContext.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.Collections.Immutable.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.Console.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.Globalization.Calendars.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.IO.Compression.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.IO.FileSystem.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.Net.Http.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.Net.Sockets.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.Reflection.Metadata.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.ValueTuple.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.Xml.XPath.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\vbc.exe
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\vbc.exe.config
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\vbc.rsp
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\VBCSCompiler.exe
+E:\Acxiom\Learning Project\LMSProjectCode\bin\roslyn\VBCSCompiler.exe.config
+E:\Acxiom\Learning Project\LMSProjectCode\bin\Antlr3.Runtime.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\Microsoft.Web.Infrastructure.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\Newtonsoft.Json.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\System.Web.Helpers.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\System.Web.Mvc.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\System.Web.Optimization.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\System.Web.Razor.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\System.Web.WebPages.Deployment.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\System.Web.WebPages.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\System.Web.WebPages.Razor.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\WebGrease.dll
+E:\Acxiom\Learning Project\LMSProjectCode\bin\System.Web.Helpers.xml
+E:\Acxiom\Learning Project\LMSProjectCode\bin\System.Web.Mvc.xml
+E:\Acxiom\Learning Project\LMSProjectCode\bin\System.Web.Optimization.xml
+E:\Acxiom\Learning Project\LMSProjectCode\bin\System.Web.Razor.xml
+E:\Acxiom\Learning Project\LMSProjectCode\bin\System.Web.WebPages.xml
+E:\Acxiom\Learning Project\LMSProjectCode\bin\System.Web.WebPages.Deployment.xml
+E:\Acxiom\Learning Project\LMSProjectCode\bin\System.Web.WebPages.Razor.xml
+E:\Acxiom\Learning Project\LMSProjectCode\bin\Newtonsoft.Json.xml
+E:\Acxiom\Learning Project\LMSProjectCode\bin\Antlr3.Runtime.pdb
+E:\Acxiom\Learning Project\LMSProjectCode\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Acxiom\Learning Project\LMSProjectCode\obj\Debug\LMSProjectCode.csproj.AssemblyReference.cache
+E:\Acxiom\Learning Project\LMSProjectCode\obj\Debug\LMSProjectCode.csproj.CoreCompileInputs.cache
+E:\Acxiom\Learning Project\LMSProjectCode\obj\Debug\LMSProjectCode.csproj.CopyComplete
+E:\Acxiom\Learning Project\LMSProjectCode\obj\Debug\LMSProjectCode.dll
+E:\Acxiom\Learning Project\LMSProjectCode\obj\Debug\LMSProjectCode.pdb
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\LMSProjectCode.dll.config
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\LMSProjectCode.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\LMSProjectCode.pdb
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\csc.exe
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\csc.exe.config
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\csc.rsp
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\csi.exe
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\csi.exe.config
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\csi.rsp
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.Console.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\vbc.exe
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\vbc.exe.config
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\vbc.rsp
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\Antlr3.Runtime.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\System.Web.Helpers.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\System.Web.Mvc.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\System.Web.Optimization.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\System.Web.Razor.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\System.Web.WebPages.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\WebGrease.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\System.Web.Helpers.xml
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\System.Web.Mvc.xml
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\System.Web.Optimization.xml
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\System.Web.Razor.xml
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\System.Web.WebPages.xml
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\Newtonsoft.Json.xml
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\obj\Debug\LMSProjectCode.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\obj\Debug\LMSProjectCode.csproj.CopyComplete
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\obj\Debug\LMSProjectCode.dll
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\obj\Debug\LMSProjectCode.pdb
+C:\Users\Dell\Desktop\Task\Updated COde\LMSProjectCode\obj\Debug\LMSProjectCode.csproj.AssemblyReference.cache
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\LMSProjectCode.dll.config
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\LMSProjectCode.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\LMSProjectCode.pdb
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\csc.exe
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\csc.exe.config
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\csc.rsp
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\csi.exe
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\csi.exe.config
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\csi.rsp
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.AppContext.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.Console.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.IO.Compression.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.Net.Http.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.ValueTuple.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\vbc.exe
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\vbc.exe.config
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\vbc.rsp
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\VBCSCompiler.exe
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\Antlr3.Runtime.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\Newtonsoft.Json.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\System.Web.Helpers.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\System.Web.Mvc.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\System.Web.Optimization.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\System.Web.Razor.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\System.Web.WebPages.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\System.Web.WebPages.Razor.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\WebGrease.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\System.Web.Helpers.xml
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\System.Web.Mvc.xml
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\System.Web.Optimization.xml
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\System.Web.Razor.xml
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\System.Web.WebPages.xml
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\System.Web.WebPages.Razor.xml
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\Newtonsoft.Json.xml
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\Antlr3.Runtime.pdb
+C:\Users\mushahid.khan\source\LMSProjectCode\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mushahid.khan\source\LMSProjectCode\obj\Debug\LMSProjectCode.csproj.AssemblyReference.cache
+C:\Users\mushahid.khan\source\LMSProjectCode\obj\Debug\LMSProjectCode.csproj.CoreCompileInputs.cache
+C:\Users\mushahid.khan\source\LMSProjectCode\obj\Debug\LMSProjectCode.csproj.CopyComplete
+C:\Users\mushahid.khan\source\LMSProjectCode\obj\Debug\LMSProjectCode.dll
+C:\Users\mushahid.khan\source\LMSProjectCode\obj\Debug\LMSProjectCode.pdb
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\LMSProjectCode.dll.config
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\LMSProjectCode.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\LMSProjectCode.pdb
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\csc.exe
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\csc.exe.config
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\csc.rsp
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\csi.exe
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\csi.exe.config
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\csi.rsp
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.AppContext.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.Console.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.IO.Compression.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.Net.Http.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.Net.Sockets.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.ValueTuple.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.Xml.XPath.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\vbc.exe
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\vbc.exe.config
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\vbc.rsp
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\VBCSCompiler.exe
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\Antlr3.Runtime.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\Newtonsoft.Json.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\System.Web.Helpers.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\System.Web.Mvc.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\System.Web.Optimization.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\System.Web.Razor.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\System.Web.WebPages.Deployment.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\System.Web.WebPages.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\System.Web.WebPages.Razor.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\WebGrease.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\System.Web.Helpers.xml
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\System.Web.Mvc.xml
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\System.Web.Optimization.xml
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\System.Web.Razor.xml
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\System.Web.WebPages.xml
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\System.Web.WebPages.Deployment.xml
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\System.Web.WebPages.Razor.xml
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\Newtonsoft.Json.xml
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\Antlr3.Runtime.pdb
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\obj\Debug\LMSProjectCode.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\obj\Debug\LMSProjectCode.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\obj\Debug\LMSProje.E868CC0B.Up2Date
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\obj\Debug\LMSProjectCode.dll
+C:\Users\moham\OneDrive\Desktop\LMSProjectCode\obj\Debug\LMSProjectCode.pdb
